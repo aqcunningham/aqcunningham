@@ -23,7 +23,7 @@ I build practical software that solves real workflow problems: authentication sy
 
 ## 🚀 Featured Projects
 
-### 🍽️ Aula Restaurant — Django Website + Admin Workflows *(in progress)*
+### 🍽️ Aula Restaurant — Django Website + Admin Workflows
 Django-based restaurant platform supporting core small-business operations.
 - Menu management + content updates
 - Table reservations + customer comments
