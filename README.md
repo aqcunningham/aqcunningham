@@ -23,6 +23,17 @@ I build practical software that solves real workflow problems: authentication sy
 
 ## 🚀 Featured Projects
 
+### 🍽️ Aula Restaurant — Django Website + Admin Workflows *(in progress)*
+Django-based restaurant platform supporting core small-business operations.
+- Menu management + content updates
+- Table reservations + customer comments
+- Database models and relationships powering booking workflows
+
+🔗 Live: *https://aularestaurant.up.railway.app*
+💻 GitHub: *https://github.com/aqcunningham/AULA-back-end-developer-capstone-project*
+
+---
+
 ### 📄 Resume2Web — Resume-to-Portfolio Generator
 Full-stack Flask app that turns structured résumé data into a shareable portfolio website.
 - User authentication, sessions, secure password hashing
@@ -45,13 +56,7 @@ Full-stack app simulating stock trading with real-time quotes via external API i
 
 ---
 
-### 🍽️ Aula Restaurant — Django Website + Admin Workflows *(in progress)*
-Django-based restaurant platform supporting core small-business operations.
-- Menu management + content updates
-- Table reservations + customer comments
-- Database models and relationships powering booking workflows
 
-💻 GitHub: **soon**
 
 ---
 
