@@ -6,7 +6,7 @@ I build practical software that solves real workflow problems: authentication sy
 
 ## 👩‍💻 Current Focus
 
-- B.A., Georgetown University (Cybersecurity, Analytics & Technology × Politics) — GPA 3.97
+- B.A., Georgetown University (Cybersecurity, Analytics & Technology × Politics) — GPA 3.96
 - Meta Back-End Developer Professional Certificate — completed
 - Building out Aula, a Django REST Framework restaurant/booking platform, with an eye toward offering similar backend build-outs to other clients down the line
 ---
