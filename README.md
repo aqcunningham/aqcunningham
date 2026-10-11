@@ -18,7 +18,9 @@ I build tools that solve real workflow problems: REST APIs, role-based apps, dat
 ## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, SQL
+
 **Backend:** Django, Django REST Framework, Flask
+
 **Frontend:** HTML, CSS, JavaScript (Fetch API), Bootstrap
 **Databases:** MySQL, PostgreSQL, SQLite
 **AI:** Claude API, LLM tool calling & structured outputs, AI-assisted development (Claude Code, Copilot)
